@@ -1,52 +1,52 @@
 export const quizData = [
     {
-        question: "What is the capital of Canada?",
-        options: ["Ottawa", "Toronto", "Calgary", "Edmonton"],
-        answer: "Ottawa"
+        question: "Кое от числата 7/3, 7/4, 7/7 и 7/8 е най-голямо?",
+        options: ["7/3", "7/4", "7/7", "7/8"],
+        answer: "7/3"
     },
     {
-        question: "What is the chemical symbol for water?",
-        options: ["H2O", "CO2", "NaCl", "O2"],
-        answer: "H2O"
+        question: "Кое от числата 5,41; 5,041; 5,401 и 5,0401 е най-малко?",
+        options: ["5,41", "5,041", "5,401", "5,0401"],
+        answer: "5,0401"
     },
     {
-        question: "Who wrote 'To Kill a Mockingbird'?",
-        options: ["Harper Lee", "Mark Twain", "J.K. Rowling", "Stephen King"],
-        answer: "Harper Lee"
+        question: "Разликата 3 1/4  – 2,2 е равна на:",
+        options: ["1,2", "1,05", "1", "0,94"],
+        answer: "1,05"
     },
     {
-        question: "Which planet is known as the 'Red Planet'?",
-        options: ["Mars", "Venus", "Jupiter", "Mercury"],
-        answer: "Mars"
+        question: "Произведението 4/7 * 0,35 е равно на:",
+        options: ["0,2", "4/5", "20", "2"],
+        answer: "0,2"
     },
     {
-        question: "Who painted the Mona Lisa?",
-        options: ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
-        answer: "Leonardo da Vinci"
+        question: "Лицето на успоредник със страна 15 m и височина към нея 48 dm е:",
+        options: ["720 кв.м", "72 кв.м", "36 кв.м", "7,2 кв.м"],
+        answer: "72 кв.м"
     },
     {
-        question: "What is the capital of Japan?",
-        options: ["Beijing", "Seoul", "Tokyo", "Bangkok"],
-        answer: "Tokyo"
+        question: "Ако x% от 48 е 9,6, x е равно на:",
+        options: ["0,2", "2", "20", "200"],
+        answer: "20"
     },
     {
-        question: "Who is the author of '1984'?",
-        options: ["George Orwell", "Aldous Huxley", "Ray Bradbury", "J.R.R. Tolkien"],
-        answer: "George Orwell"
+        question: "Ако 3,6 : x = 3/5 * 1 1/2 ,то x е равно на:",
+        options: ["0,25", "0,4", "3,24", "4"],
+        answer: "4"
     },
     {
-        question: "What is the largest organ in the human body?",
-        options: ["Liver", "Heart", "Skin", "Lung"],
-        answer: "Skin"
+        question: "Ако 16,5 + x = 41,3 – 12,7,то x е равно на:",
+        options: ["121", "45,1", "37,5", "12,1"],
+        answer: "12,1"
     },
     {
-        question: "Which continent is the largest by land area?",
-        options: ["Asia", "Africa", "North America", "Europe"],
-        answer: "Asia"
+        question: "Стойността на израза 4/7 * 2 1/3 – 1 1/3 : 2 2/3 е:",
+        options: ["3/14", "5/6", "1", "1 37/42"],
+        answer: "5/6"
     },
     {
-        question: "Who invented the telephone?",
-        options: ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Albert Einstein"],
-        answer: "Alexander Graham Bell"
+        question: "Петцифреното число 24*25 се дели на 3, ако цифрата, скрита под *, е:",
+        options: ["0", "3", "4", "5"],
+        answer: "5"
     },
 ]
